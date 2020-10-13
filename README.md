@@ -26,5 +26,5 @@ How do you run tests?
 n/a
 
 UML
-![UML image](./img/uml.png)
+![UML image](./img/uml.jpg)
 
