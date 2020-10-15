@@ -5,6 +5,9 @@ Author: Sara
 Links and Resources
 Worked with Spencer and Kevin for lab01 10/12/20 in remo
 worked with Michael E and Kevin for lab02 10/13/20 in remo
+worked with Michael E, Kevin, and Spencer for lab03 10/14/20 in remo
+
+docs for mongoose - https://mongoosejs.com/docs/
 notes on minimist - https://www.npmjs.com/package/minimist
 notes for using spyOn in Jest - https://stephencharlesweiss.com/jest-testing-spyon-consoles/
 
@@ -24,8 +27,7 @@ How to use:
 Enter a command and note in the command line to update a note object 
 
 Tests
-How do you run tests?
-n/a
+node test
 
 UML
 ![UML image](./img/uml2.png)
